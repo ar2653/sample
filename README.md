@@ -8,4 +8,3 @@ new change
 
 change test from ubuntu vm
 
-new change test
